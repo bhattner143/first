@@ -1,0 +1,124 @@
+%*******************************************************
+% Table of Contents
+%*******************************************************
+\pagestyle{scrheadings}
+%\phantomsection
+\pdfbookmark[1]{\contentsname}{tableofcontents}
+\setcounter{tocdepth}{2} % <-- 2 includes up to subsections in the ToC
+\setcounter{secnumdepth}{3} % <-- 3 numbers up to subsubsections
+\manualmark
+\markboth{\spacedlowsmallcaps{\contentsname}}{\spacedlowsmallcaps{\contentsname}}
+\tableofcontents
+\automark[section]{chapter}
+\renewcommand{\chaptermark}[1]{\markboth{\spacedlowsmallcaps{#1}}{\spacedlowsmallcaps{#1}}}
+\renewcommand{\sectionmark}[1]{\markright{\textsc{\thesection}\enspace\spacedlowsmallcaps{#1}}}
+%*******************************************************
+% List of Figures and of the Tables
+%*******************************************************
+\clearpage
+% \pagestyle{empty} % Uncomment this line if your lists should not have any headlines with section name and page number
+\begingroup
+    \let\clearpage\relax
+    \let\cleardoublepage\relax
+    %*******************************************************
+    % List of Figures
+    %*******************************************************
+    %\phantomsection
+    %\addcontentsline{toc}{chapter}{\listfigurename}
+    \pdfbookmark[1]{\listfigurename}{lof}
+    \listoffigures
+
+    \vspace{8ex}
+
+    %*******************************************************
+    % List of Tables
+    %*******************************************************
+    %\phantomsection
+    %\addcontentsline{toc}{chapter}{\listtablename}
+    \pdfbookmark[1]{\listtablename}{lot}
+    \listoftables
+
+    \vspace{8ex}
+    % \newpage
+
+    %*******************************************************
+    % List of Listings
+    %*******************************************************
+    %\phantomsection
+    %\addcontentsline{toc}{chapter}{\lstlistlistingname}
+    \pdfbookmark[1]{\lstlistlistingname}{lol}
+    \lstlistoflistings
+
+    \vspace{8ex}
+
+%	%    %*******************************************************
+%	% Acronyms
+%	%*******************************************************
+%	%\phantomsection
+%	\pdfbookmark[1]{Acronyms}{acronyms}
+%	\markboth{\spacedlowsmallcaps{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
+%	\chapter*{Acronyms}
+%	\begin{acronym}[UMLX]
+%		\acro{CPG}{Central Pattern Generator}
+%		\acro{DE}{Differential Equation}
+%		\acro{ML}{Machine Learning}
+%		\acro{QRoSE{Quarter-Robotic Soft Esophagus}
+%		\acro{RCT}{Randomized Controlled Trials}
+%		\acro{ROM}{Reduced-Order Modeling}
+%		\acro{RoSE{Robotic Soft Esophagus}
+%		\acro{SEMS}{Self-Expandable Metallic Stent}	
+%	\end{acronym}
+		 %*******************************************************
+		% Acronyms
+		%*******************************************************
+		%\phantomsection
+		\pdfbookmark[1]{Acronyms}{acronyms}
+		\markboth{\spacedlowsmallcaps{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
+		\chapter*{Acronyms}
+		\begin{acronym}[UMLX]
+			\acro{AC}{Abdominal Compression}
+			\acro{ASR}{Automatic Symbolic Regression}
+			\acro{BIBPS}{Baseline of Intra-Bolus Presssure Signature}
+			
+			\acro{CAD}{Computer-Aided Design}
+			\acro{CeG}{CNT embroidered Graphane}
+			\acro{CNT}{Carbon Nanotube}
+			\acro{CPG}{Central Pattern Generator}
+			\acro{DE}{Differential Equations}
+			
+			\acro{EC}{Esophageal Cancer}
+			\acro{FEM}{Finite Element Modeling}
+			
+			\acro{GPN}{Graphene Porous Network}
+			\acro{HRM}{High Resolution Manometry}
+
+			\acro{IBPS}{Intra-Bolus Presssure Signature}
+			\acro{ILPS}{Intraluminal Presssure Signature}
+			\acro{IW}{Indentation Wave}
+			
+			\acro{MIBPS}{Maximum of Intra-Bolus Presssure Signature}
+			\acro{ML}{Machine Learning}
+			
+			\acro{PDMS}{Liquid Polydimethylsiloxane}
+			\acro{PILPS}{Peak of Intraluminal Presssure Signature}
+			\acro{PP}{Primary Peristalsis}
+			\acro{PPW}{Primary Peristaltic Wave}
+			\acro{QRoSE}{Quarter-Robotic Soft Esophagus}
+			
+			\acro{RCT}{Randomized Controlled Trials}
+			\acro{RF}{Radial Force}
+			\acro{ROM}{Reduced-Order Modeling}
+			\acro{RoSE}{Robotic Soft Esophagus}
+			\acro{ROT}{Region of Transition}
+				
+			\acro{SEMS}{Self-Expandable Metallic Stent}	
+			\acro{SI}{System Identification}
+			\acro{SL}{Supervised Learning}
+			\acro{SNT}{Silver Nanotubes}
+			\acro{SP}{Secondary Peristalsis}
+			\acro{SPW}{Secondary Peristaltic Wave}
+			\acro{UL}{Unsupervised Learning}
+			
+		\end{acronym}	
+	\endgroup
+

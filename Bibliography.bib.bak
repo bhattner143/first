@@ -1,0 +1,22 @@
+% Encoding: UTF-8
+
+@Article{Wynn2018,
+  author    = {Wynn, David C and Clarkson, P John},
+  journal   = {Research in Engineering Design},
+  title     = {Process models in design and development},
+  year      = {2018},
+  number    = {2},
+  pages     = {161--202},
+  volume    = {29},
+  publisher = {Springer},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:Chapter: Introduction\;0\;1\;\;\;\;;
+1 StaticGroup:Chapter: Research Methodology\;0\;1\;\;\;\;;
+1 StaticGroup:Chapte: Margins\;0\;1\;\;\;\;;
+1 StaticGroup:Review\;0\;1\;\;\;\;;
+}

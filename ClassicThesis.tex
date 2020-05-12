@@ -1,0 +1,159 @@
+% **************************************************************************************************************
+% A Classic Thesis Style
+% An Homage to The Elements of Typographic Style
+%
+% Copyright (C) 2018 André Miede and Ivo Pletikosić
+%
+% If you like the style then I would appreciate a postcard. My address
+% can be found in the file ClassicThesis.pdf. A collection of the
+% postcards I received so far is available online at
+% http://postcards.miede.de
+%
+% License:
+% This program is free software; you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation; either version 2 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; see the file COPYING.  If not, write to
+% the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+% Boston, MA 02111-1307, USA.
+%
+% PLEASE SEE ALSO THE AUTHORS' NOTE REGARDING THIS LICENSE
+% IN THE DOCUMENTATION (ClassicThesis.pdf --> Chapter 1 / Chapter01.tex)
+% **************************************************************************************************************
+
+\RequirePackage{silence} % :-\
+    \WarningFilter{scrreprt}{Usage of package `titlesec'}
+    %\WarningFilter{scrreprt}{Activating an ugly workaround}
+    \WarningFilter{titlesec}{Non standard sectioning command detected}
+\documentclass[ twoside,openright,titlepage,numbers=noenddot,%1headlines,
+                headinclude,footinclude,cleardoublepage=empty,abstract=on,
+                BCOR=5mm,paper=a4,fontsize=11pt
+                ]{scrreprt}
+
+%********************************************************************
+% Note: Make all your adjustments in here
+%*******************************************************
+\input{classicthesis-config}
+
+
+%********************************************************************
+% Bibliographies
+%*******************************************************
+\addbibresource{Bibliography2.bib}
+\addbibresource[label=ownpubs]{ClassicThesis-blx.bib}
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+
+% ********************************************************************
+% GO!GO!GO! MOVE IT!
+%*******************************************************
+\begin{document}
+\frenchspacing
+\raggedbottom
+\selectlanguage{american} % american ngerman
+%\renewcommand*{\bibname}{new name}
+%\setbibpreamble{}
+\pagenumbering{roman}
+\pagestyle{plain}
+%********************************************************************
+% Frontmatter
+%*******************************************************
+\include{FrontBackmatter/DirtyTitlepage}
+\include{FrontBackmatter/Titlepage}
+\include{FrontBackmatter/Titleback}
+\cleardoublepage\include{FrontBackmatter/Abstract}
+\cleardoublepage\include{FrontBackmatter/Dedication}
+\cleardoublepage\include{FrontBackmatter/Acknowledgements}
+%\cleardoublepage\include{FrontBackmatter/Declaration}
+\includepdf[pages=-, openright=true, noautoscale=true, scale=0.9, pagecommand={}]{FrontBackmatter/co-authorship-form.pdf}
+\includepdf[pages=-, openright=true, noautoscale=true, scale=0.9, pagecommand={}]{FrontBackmatter/co-authorship-form.pdf}
+%\cleardoublepage\include{FrontBackmatter/Coauthorship}
+\cleardoublepage\include{FrontBackmatter/Publications}
+
+\cleardoublepage\include{FrontBackmatter/Contents}
+
+%********************************************************************
+% Mainmatter
+%*******************************************************
+\cleardoublepage
+\pagestyle{scrheadings}
+\pagenumbering{arabic}
+%\setcounter{page}{90}
+% use \cleardoublepage here to avoid problems with pdfbookmark
+\cleardoublepage
+\ctparttext{
+``Thereafter rose Desire in the beginning, Desire, the primal seed and germ of Spirit.
+Sages who searched with their heart's thought discovered the existent's kinship in the non-existent.''
+\begin{flushright}
+--\textbf{Rig Veda:10.129.4}\\
+\end{flushright}
+
+}
+\part{The Motivation}
+
+\include{Chapters/Chapter01}
+
+
+\ctparttext{''A person is said to be established in self-realization and is called a yogi when he is fully satisfied by virtue of acquired knowledge and realization. Such a person is situated in transcendence and is self-controlled. He sees everything—whether it be pebbles, stones or gold—as the same.''\\
+\begin{flushright}
+--\textbf{Bhagavad Gita:6.8}\\
+\end{flushright}
+}
+
+\part{The Path of Knowledge}
+
+
+\include{Chapters/Chapter02}
+%\addtocontents{toc}{\protect\clearpage} % <--- just debug stuff, ignore
+\ctparttext{
+The question arose that this body is the name of one continuous stream of matter — every moment we are adding material to it, and every moment material is being thrown oft by it — like a river continually flowing, vast masses of water always changing places; yet all the same, we take up the whole thing in imagination, and call it the same river. What do we call the river? Every moment the water is changing, the shore is changing, every moment the environment is changing, what is the river then? It is the name of this series of changes. So with the mind.
+\begin{flushright}
+--\textbf{Swamy Vivekananda}\\
+THE VEDANTA\\
+(Delivered at Lahore on 12th November, 1897)
+
+\end{flushright}
+}
+\part{Impermanence}
+%\addtocontents{toc}{\protect\clearpage} % <--- just debug stuff, ignor
+%\include{Chapters/Chapter03}
+%\include{Chapters/Chapter04}
+%\include{Chapters/Chapter05}
+%\include{Chapters/Chapter06}
+%\include{Chapters/Chapter07}
+%\include{Chapters/Chapter08}
+
+%\include{multiToC} % <--- just debug stuff, ignore for your documents
+% ********************************************************************
+% Backmatter
+%*******************************************************
+\appendix
+%\renewcommand{\thechapter}{\alph{chapter}}
+\cleardoublepage
+%\part{Appendix}
+%\include{Chapters/Chapter0A}
+%\include{Chapters/Chapter0B}
+%\include{Chapters/Chapter0C}
+%\include{Chapters/Chapter0D}
+%********************************************************************
+% Other Stuff in the Back
+%*******************************************************
+\cleardoublepage\include{FrontBackmatter/Bibliography}
+
+%\cleardoublepage\include{FrontBackmatter/Colophon}
+% ********************************************************************
+% Game Over: Restore, Restart, or Quit?
+%*******************************************************
+\end{document}
+% ********************************************************************
