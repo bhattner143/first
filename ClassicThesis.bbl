@@ -1,0 +1,2667 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{rus2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RD}{%
+         family={Rus},
+         familyi={R\bibinitperiod},
+         given={Daniela},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TMT}{%
+         family={Tolley},
+         familyi={T\bibinitperiod},
+         given={Michael\bibnamedelima T},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{RDTMT1}
+    \strng{fullhash}{RDTMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nature14543
+    \endverb
+    \field{number}{7553}
+    \field{pages}{467\bibrangedash 475}
+    \field{title}{Design, fabrication and control of soft robots}
+    \field{volume}{521}
+    \field{journaltitle}{Nature}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Yap2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=YHK}{%
+         family={Yap},
+         familyi={Y\bibinitperiod},
+         given={Hong\bibnamedelima Kai},
+         giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=NHY}{%
+         family={Ng},
+         familyi={N\bibinitperiod},
+         given={Hui\bibnamedelima Yong},
+         giveni={H\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=YCH}{%
+         family={Yeow},
+         familyi={Y\bibinitperiod},
+         given={Chen-Hua},
+         giveni={C\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mary Ann Liebert}%
+    }
+    \strng{namehash}{YHKNHYYCH1}
+    \strng{fullhash}{YHKNHYYCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1089/soro.2016.0030
+    \endverb
+    \field{number}{3}
+    \field{pages}{144\bibrangedash 158}
+    \field{title}{High-force soft printable pneumatics for soft robotic
+  applications}
+    \field{volume}{3}
+    \field{journaltitle}{Soft Robotics}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Katzschmann2016}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=KRK}{%
+         family={Katzschmann},
+         familyi={K\bibinitperiod},
+         given={Robert\bibnamedelima K},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MAD}{%
+         family={Marchese},
+         familyi={M\bibinitperiod},
+         given={Andrew\bibnamedelima D},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rus},
+         familyi={R\bibinitperiod},
+         given={Daniela},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{KRKMADRD1}
+    \strng{fullhash}{KRKMADRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Experimental Robotics}
+    \verb{doi}
+    \verb 10.1007/978-3-319-23778-7_27
+    \endverb
+    \field{pages}{405\bibrangedash 420}
+    \field{title}{Hydraulic autonomous soft robotic fish for 3D swimming}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Argiolas2016}{article}{}
+    \name{author}{7}{}{%
+      {{hash=AA}{%
+         family={Argiolas},
+         familyi={A\bibinitperiod},
+         given={Alfredo},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MMBC}{%
+         family={Mac\bibnamedelima Murray},
+         familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Benjamin\bibnamedelima C},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=VMI}{%
+         family={Van\bibnamedelima Meerbeek},
+         familyi={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Ilse},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Whitehead},
+         familyi={W\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sinibaldi},
+         familyi={S\bibinitperiod},
+         given={Edoardo},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Mazzolai},
+         familyi={M\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SRF}{%
+         family={Shepherd},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima F},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAMMBCVMI+1}
+    \strng{fullhash}{AAMMBCVMIWJSEMBSRF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1089/soro.2016.0004
+    \endverb
+    \field{number}{3}
+    \field{pages}{101\bibrangedash 108}
+    \field{title}{Sculpting soft machines}
+    \field{volume}{3}
+    \field{journaltitle}{Soft Robotics}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Pfeifer2007}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PR}{%
+         family={Pfeifer},
+         familyi={P\bibinitperiod},
+         given={Rolf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lungarella},
+         familyi={L\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IF}{%
+         family={Iida},
+         familyi={I\bibinitperiod},
+         given={Fumiya},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Association for the Advancement of Science}%
+    }
+    \strng{namehash}{PRLMIF1}
+    \strng{fullhash}{PRLMIF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1126/science.1145803
+    \endverb
+    \field{number}{5853}
+    \field{pages}{1088\bibrangedash 1093}
+    \field{title}{Self-organization, embodiment, and biologically inspired
+  robotics}
+    \field{volume}{318}
+    \field{journaltitle}{science}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Pfeifer2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=vR}{%
+         family={\vspace{0mm}Pfeifer},
+         familyi={v\bibinitperiod},
+         given={Rolf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lungarella},
+         familyi={L\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IF}{%
+         family={Iida},
+         familyi={I\bibinitperiod},
+         given={Fumiya},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM New York, NY, USA}%
+    }
+    \strng{namehash}{vRLMIF1}
+    \strng{fullhash}{vRLMIF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/2366316.2366335
+    \endverb
+    \field{number}{11}
+    \field{pages}{76\bibrangedash 87}
+    \field{title}{The challenges ahead for bio-inspired 'soft'robotics}
+    \field{volume}{55}
+    \field{journaltitle}{Communications of the ACM}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Alpaydin2020}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=AE}{%
+         family={Alpaydin},
+         familyi={A\bibinitperiod},
+         given={Ethem},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT press}%
+    }
+    \strng{namehash}{AE1}
+    \strng{fullhash}{AE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{chapter}{1}
+    \field{isbn}{9780262028189}
+    \field{pages}{1\bibrangedash 4}
+    \field{series}{Adaptive Computation and Machine Learning}
+    \field{title}{Introduction to machine learning}
+    \verb{url}
+    \verb https://ezproxy.auckland.ac.nz/login?url=https://search-ebscohost-com
+    \verb .ezproxy.auckland.ac.nz/login.aspx?direct=true&db=nlebk&AN=836612&sit
+    \verb e=ehost-live&scope=site
+    \endverb
+    \field{volume}{Third edition}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Murphy2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MKP}{%
+         family={Murphy},
+         familyi={M\bibinitperiod},
+         given={Kevin\bibnamedelima P},
+         giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT press}%
+    }
+    \strng{namehash}{MKP1}
+    \strng{fullhash}{MKP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9780262305242}
+    \field{title}{Machine learning: a probabilistic perspective}
+    \verb{url}
+    \verb https://ebookcentral.proquest.com/lib/auckland/detail.action?docID=33
+    \verb 39490
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{Jean2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JA}{%
+         family={Jean},
+         familyi={J\bibinitperiod},
+         given={André},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JA2}
+    \strng{fullhash}{JA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/physrev.2001.81.2.929
+    \endverb
+    \field{number}{2}
+    \field{pages}{929\bibrangedash 969}
+    \field{title}{Brain Stem Control of Swallowing: Neuronal Network and
+  Cellular Mechanisms}
+    \field{volume}{81}
+    \field{journaltitle}{Physiological Reviews}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Garcia2010}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GJM}{%
+         family={Garcia},
+         familyi={G\bibinitperiod},
+         given={Jane\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CIE}{%
+         family={Chambers\bibnamedelima IV},
+         familyi={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+         given={Edgar},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Megan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Helverson},
+         familyi={H\bibinitperiod},
+         given={Jennifer},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MZ}{%
+         family={Matta},
+         familyi={M\bibinitperiod},
+         given={Ziad},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \keyw{dysphagia, feeding difficulty, nursing, nutrition, oral fluids,
+  quality of care}
+    \strng{namehash}{GJMCIECM+1}
+    \strng{fullhash}{GJMCIECMHJMZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1111/j.1365-2702.2009.03009.x
+    \endverb
+    \field{number}{11‐12}
+    \field{pages}{1618\bibrangedash 1624}
+    \field{title}{Quality of care issues for dysphagia: modifications involving
+  oral fluids}
+    \field{volume}{19}
+    \field{journaltitle}{Journal of Clinical Nursing}
+    \field{year}{2010}
+  \endentry
+
+  \entry{hanawa2009materials}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HT}{%
+         family={Hanawa},
+         familyi={H\bibinitperiod},
+         given={Takao},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{HT1}
+    \strng{fullhash}{HT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s10047-008-0456-x
+    \endverb
+    \field{number}{2}
+    \field{pages}{73\bibrangedash 79}
+    \field{title}{Materials for metallic stents}
+    \field{volume}{12}
+    \field{journaltitle}{Journal of Artificial Organs}
+    \field{year}{2009}
+  \endentry
+
+  \entry{hirdes2013vitro}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HMM}{%
+         family={Hirdes},
+         familyi={H\bibinitperiod},
+         given={Meike\bibnamedelima MC},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VFP}{%
+         family={Vleggaar},
+         familyi={V\bibinitperiod},
+         given={Frank\bibnamedelima P},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DBM}{%
+         family={De\bibnamedelima Beule},
+         familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={Matthieu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SPD}{%
+         family={Siersema},
+         familyi={S\bibinitperiod},
+         given={Peter\bibnamedelima D},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HMMVFPDBM+1}
+    \strng{fullhash}{HMMVFPDBMSPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1055/s-0033-1344985
+    \endverb
+    \field{number}{12}
+    \field{pages}{997\bibrangedash 1005}
+    \field{title}{In vitro evaluation of the radial and axial force of
+  self-expanding esophageal stents}
+    \field{volume}{45}
+    \field{journaltitle}{Endoscopy}
+    \field{year}{2013}
+  \endentry
+
+  \entry{sharma2010role}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{3}{}{%
+      {{hash=SP}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={Prateek},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kozarek},
+         familyi={K\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=otACoGPPC}{%
+         prefix={of\bibnamedelima the American College\bibnamedelima of},
+         prefixi={o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Gastroenterology},
+         familyi={G\bibinitperiod},
+         given={Practice Parameters\bibnamedelima Committee},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPKRGPPCotACo+1}
+    \strng{fullhash}{SPKRGPPCotACo+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/ajg.2009.684
+    \endverb
+    \field{number}{2}
+    \field{pages}{258\bibrangedash 273}
+    \field{title}{Role of esophageal stents in benign and malignant diseases}
+    \field{volume}{105}
+    \field{journaltitle}{American Journal of Gastroenterology}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Dirven2014}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DS}{%
+         family={{Dirven}},
+         familyi={D\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={{Chen}},
+         familyi={C\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=XW}{%
+         family={{Xu}},
+         familyi={X\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={{Bronlund}},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={{Allen}},
+         familyi={A\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CLK}{%
+         family={{Cheng}},
+         familyi={C\bibinitperiod},
+         given={L.\bibnamedelima K.},
+         giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSCFXW+1}
+    \strng{fullhash}{DSCFXWBJEAJCLK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TMECH.2013.2276406
+    \endverb
+    \field{number}{4}
+    \field{pages}{1234\bibrangedash 1242}
+    \field{title}{Design and Characterization of a Peristaltic Actuator
+  Inspired by Esophageal Swallowing}
+    \field{volume}{19}
+    \field{journaltitle}{IEEE/ASME Transactions on Mechatronics}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Dirven2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DS}{%
+         family={{Dirven}},
+         familyi={D\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XW}{%
+         family={{Xu}},
+         familyi={X\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CLK}{%
+         family={{Cheng}},
+         familyi={C\bibinitperiod},
+         given={L.\bibnamedelima K.},
+         giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSXWCLK1}
+    \strng{fullhash}{DSXWCLK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TMECH.2014.2337291
+    \endverb
+    \field{number}{3}
+    \field{pages}{1331\bibrangedash 1337}
+    \field{title}{Sinusoidal Peristaltic Waves in Soft Actuator for Mimicry of
+  Esophageal Swallowing}
+    \field{volume}{20}
+    \field{journaltitle}{IEEE/ASME Transactions on Mechatronics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Dodds1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DWJ}{%
+         family={Dodds},
+         familyi={D\bibinitperiod},
+         given={Wylie\bibnamedelima J},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{DWJ1}
+    \strng{fullhash}{DWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/BF02407219
+    \endverb
+    \field{number}{4}
+    \field{pages}{171\bibrangedash 178}
+    \field{title}{The physiology of swallowing}
+    \field{volume}{3}
+    \field{journaltitle}{Dysphagia}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Groher2015}{book}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{2}{}{%
+      {{hash=GME}{%
+         family={Groher},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima E},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=CMA}{%
+         family={Crary},
+         familyi={C\bibinitperiod},
+         given={Michael\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{GMECMA+1}
+    \strng{fullhash}{GMECMA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{2}
+    \field{isbn}{978-0-323-18701-5}
+    \field{title}{Dysphagia: clinical management in adults and children}
+    \list{location}{1}{%
+      {St. Louis, Missouri}%
+    }
+    \field{year}{2015}
+  \endentry
+
+  \entry{Kuo2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KP}{%
+         family={Kuo},
+         familyi={K\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HRH}{%
+         family={Holloway},
+         familyi={H\bibinitperiod},
+         given={Richard\bibnamedelima H},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=NNQ}{%
+         family={Nguyen},
+         familyi={N\bibinitperiod},
+         given={Nam\bibnamedelima Q},
+         giveni={N\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+    }
+    \keyw{dysphagia technique, endoscopy: upper gastrointestinal, esophageal
+  motility, esophagus}
+    \strng{namehash}{KPHRHNNQ1}
+    \strng{fullhash}{KPHRHNNQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1111/j.1440-1746.2012.07097.x
+    \endverb
+    \field{number}{5}
+    \field{pages}{873\bibrangedash 881}
+    \field{title}{Current and future techniques in the evaluation of dysphagia}
+    \field{volume}{27}
+    \field{journaltitle}{Journal of Gastroenterology and Hepatology}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Cichero2017}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=CJA}{%
+         family={Cichero},
+         familyi={C\bibinitperiod},
+         given={Julie\bibnamedelima AY},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lam},
+         familyi={L\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SCM}{%
+         family={Steele},
+         familyi={S\bibinitperiod},
+         given={Catriona\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Hanson},
+         familyi={H\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jianshe},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DRO}{%
+         family={Dantas},
+         familyi={D\bibinitperiod},
+         given={Roberto\bibnamedelima O},
+         giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Duivestein},
+         familyi={D\bibinitperiod},
+         given={Janice},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kayashita},
+         familyi={K\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lecko},
+         familyi={L\bibinitperiod},
+         given={Caroline},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Murray},
+         familyi={M\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{CJALPSCM+1}
+    \strng{fullhash}{CJALPSCMHBCJDRODJKJLCMJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s00455-016-9758-y
+    \endverb
+    \field{number}{2}
+    \field{pages}{293\bibrangedash 314}
+    \field{title}{Development of international terminology and definitions for
+  texture-modified foods and thickened fluids used in dysphagia management: the
+  IDDSI framework}
+    \field{volume}{32}
+    \field{journaltitle}{Dysphagia}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Miller1986}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MAJ}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Arthur\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MAJ1}
+    \strng{fullhash}{MAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/bf02407121
+    \endverb
+    \field{issn}{1432-0460}
+    \field{number}{2}
+    \field{pages}{91}
+    \field{title}{Neurophysiological basis of swallowing}
+    \field{volume}{1}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Dysphagia}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Miller1987}{article}{}
+    \name{author}{1}{}{%
+      {{hash=vAJ}{%
+         family={\vspace{0mm}Miller},
+         familyi={v\bibinitperiod},
+         given={Arthur\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{vAJ1}
+    \strng{fullhash}{vAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/bf02408137
+    \endverb
+    \field{issn}{1432-0460}
+    \field{number}{2}
+    \field{pages}{72\bibrangedash 82}
+    \field{title}{Swallowing: Neurophysiologic control of the esophageal phase}
+    \field{volume}{2}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Dysphagia}
+    \field{year}{1987}
+  \endentry
+
+  \entry{lang2009brain}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LIM}{%
+         family={Lang},
+         familyi={L\bibinitperiod},
+         given={Ivan\bibnamedelima M},
+         giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{LIM1}
+    \strng{fullhash}{LIM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s00455-009-9211-6
+    \endverb
+    \field{number}{3}
+    \field{pages}{333\bibrangedash 348}
+    \field{title}{Brain stem control of the phases of swallowing}
+    \field{volume}{24}
+    \field{journaltitle}{Dysphagia}
+    \field{year}{2009}
+  \endentry
+
+  \entry{brasseur1987fluid}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJG}{%
+         family={Brasseur},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima G},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BJG1}
+    \strng{fullhash}{BJG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/BF02406976
+    \endverb
+    \field{number}{1}
+    \field{pages}{32}
+    \field{title}{A fluid mechanical perspective on esophageal bolus transport}
+    \field{volume}{2}
+    \field{journaltitle}{Dysphagia}
+    \field{year}{1987}
+  \endentry
+
+  \entry{chen2009food}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jianshe},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.foodhyd.2007.11.013
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 25}
+    \field{title}{Food oral processing—A review}
+    \field{volume}{23}
+    \field{journaltitle}{Food Hydrocolloids}
+    \field{year}{2009}
+  \endentry
+
+  \entry{mashimo2006physiology}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MH}{%
+         family={Mashimo},
+         familyi={M\bibinitperiod},
+         given={Hiroshi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GRK}{%
+         family={Goyal},
+         familyi={G\bibinitperiod},
+         given={Raj\bibnamedelima K},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{MHGRK1}
+    \strng{fullhash}{MHGRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/gimo3
+    \endverb
+    \field{title}{Physiology of esophageal motility}
+    \field{journaltitle}{GI Motility online}
+    \field{year}{2006}
+  \endentry
+
+  \entry{ghosh2006physiology}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GSK}{%
+         family={Ghosh},
+         familyi={G\bibinitperiod},
+         given={Sudip\bibnamedelima K},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={Janiak},
+         familyi={J\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Schwizer},
+         familyi={S\bibinitperiod},
+         given={Werner},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=HGS}{%
+         family={Hebbard},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima S},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BJG}{%
+         family={Brasseur},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima G},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physiological Society}%
+    }
+    \strng{namehash}{GSKJPSW+1}
+    \strng{fullhash}{GSKJPSWHGSBJG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/ajpgi.00280.2005
+    \endverb
+    \field{number}{3}
+    \field{pages}{G568\bibrangedash G576}
+    \field{title}{Physiology of the esophageal pressure transition zone:
+  separate contraction waves above and below}
+    \field{volume}{290}
+    \field{journaltitle}{American Journal of Physiology-Gastrointestinal and
+  Liver Physiology}
+    \field{year}{2006}
+  \endentry
+
+  \entry{ren1993determinants}{article}{}
+    \name{author}{9}{}{%
+      {{hash=RJ}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={JUNLONG},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MBT}{%
+         family={Massey},
+         familyi={M\bibinitperiod},
+         given={BENSON\bibnamedelima T},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=DWJ}{%
+         family={Dodds},
+         familyi={D\bibinitperiod},
+         given={WYLIE\bibnamedelima J},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KMK}{%
+         family={Kern},
+         familyi={K\bibinitperiod},
+         given={MARK\bibnamedelima K},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BJG}{%
+         family={Brasseur},
+         familyi={B\bibinitperiod},
+         given={JAMES\bibnamedelima G},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Shaker},
+         familyi={S\bibinitperiod},
+         given={REZA},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HSS}{%
+         family={Harrington},
+         familyi={H\bibinitperiod},
+         given={SANDRA\bibnamedelima S},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HWJ}{%
+         family={Hogan},
+         familyi={H\bibinitperiod},
+         given={WALTER\bibnamedelima J},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ARC}{%
+         family={Arndorfer},
+         familyi={A\bibinitperiod},
+         given={RONALD\bibnamedelima C},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physiological Society Bethesda, MD}%
+    }
+    \strng{namehash}{RJMBTDWJ+1}
+    \strng{fullhash}{RJMBTDWJKMKBJGSRHSSHWJARC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/ajpgi.1993.264.3.G407
+    \endverb
+    \field{number}{3}
+    \field{pages}{G407\bibrangedash G413}
+    \field{title}{Determinants of intrabolus pressure during esophageal
+  peristaltic bolus transport}
+    \field{volume}{264}
+    \field{journaltitle}{American Journal of Physiology-Gastrointestinal and
+  Liver Physiology}
+    \field{year}{1993}
+  \endentry
+
+  \entry{hollis1975effect}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HJ}{%
+         family={Hollis},
+         familyi={H\bibinitperiod},
+         given={JB},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Castell},
+         familyi={C\bibinitperiod},
+         given={DO},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJCD1}
+    \strng{fullhash}{HJCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/jappl.1975.38.6.1161
+    \endverb
+    \field{number}{6}
+    \field{pages}{1161\bibrangedash 1164}
+    \field{title}{Effect of dry swallows and wet swallows of different volumes
+  on esophageal peristalsis}
+    \field{volume}{38}
+    \field{journaltitle}{Journal of Applied Physiology}
+    \field{year}{1975}
+  \endentry
+
+  \entry{Crist1984}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CJ}{%
+         family={Crist},
+         familyi={C\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=GJS}{%
+         family={Gidda},
+         familyi={G\bibinitperiod},
+         given={J\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GRK}{%
+         family={Goyal},
+         familyi={G\bibinitperiod},
+         given={R\bibnamedelima K},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Academy of Sciences}%
+    }
+    \strng{namehash}{CJGJSGRK1}
+    \strng{fullhash}{CJGJSGRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1073/pnas.81.11.3595
+    \endverb
+    \field{issn}{0027-8424}
+    \field{number}{11}
+    \field{pages}{3595\bibrangedash 3599}
+    \field{title}{Intramural mechanism of esophageal peristalsis: roles of
+  cholinergic and noncholinergic nerves}
+    \field{volume}{81}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{1984}
+  \endentry
+
+  \entry{jeong2014utilizing}{article}{}
+    \name{author}{5}{}{%
+      {{hash=JSH}{%
+         family={Jeong},
+         familyi={J\bibinitperiod},
+         given={Su\bibnamedelima Hyeon},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PMI}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Moo\bibnamedelima In},
+         giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=KHH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Hyung\bibnamedelima Hun},
+         giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PSJ}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Seun\bibnamedelima Ja},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MW}{%
+         family={Moon},
+         familyi={M\bibinitperiod},
+         given={Won},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {The Korean Society of Neurogastroenterology}%
+      {Motility}%
+    }
+    \strng{namehash}{JSHPMIKHH+1}
+    \strng{fullhash}{JSHPMIKHHPSJMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.5056/jnm.2014.20.1.74
+    \endverb
+    \field{number}{1}
+    \field{pages}{74}
+    \field{title}{Utilizing intrabolus pressure and esophagogastric junction
+  pressure to predict transit in patients with Dysphagia}
+    \field{volume}{20}
+    \field{journaltitle}{Journal of neurogastroenterology and motility}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Li1994Analyses}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LM}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BJG}{%
+         family={Brasseur},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DWJ}{%
+         family={Dodds},
+         familyi={D\bibinitperiod},
+         given={W.\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LMBJGDWJ1}
+    \strng{fullhash}{LMBJGDWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/ajpgi.1994.266.4.G525
+    \endverb
+    \field{number}{4}
+    \field{pages}{G525\bibrangedash G543}
+    \field{title}{Analyses of normal and abnormal esophageal transport using
+  computer simulations}
+    \field{volume}{266}
+    \field{journaltitle}{American Journal of Physiology-Gastrointestinal and
+  Liver Physiology}
+    \field{year}{1994}
+  \endentry
+
+  \entry{dalmazo2010esophageal}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DJ}{%
+         family={Dalmazo},
+         familyi={D\bibinitperiod},
+         given={Jucileia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DRO}{%
+         family={Dantas},
+         familyi={D\bibinitperiod},
+         given={Roberto\bibnamedelima Oliveira},
+         giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elmer Press}%
+    }
+    \strng{namehash}{DJDRO1}
+    \strng{fullhash}{DJDRO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.4021/gr223w
+    \endverb
+    \field{number}{4}
+    \field{pages}{156}
+    \field{title}{Esophageal contractions after wet and dry swallows in
+  patients with esophagitis, Chagas' disease and idiopathic achalasia}
+    \field{volume}{3}
+    \field{journaltitle}{Gastroenterology research}
+    \field{year}{2010}
+  \endentry
+
+  \entry{clouse1996characteristics}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CRE}{%
+         family={Clouse},
+         familyi={C\bibinitperiod},
+         given={Ray\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Staiano},
+         familyi={S\bibinitperiod},
+         given={Annamaria},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BSJ}{%
+         family={Bickston},
+         familyi={B\bibinitperiod},
+         given={Stephen\bibnamedelima J},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CSM}{%
+         family={Cohn},
+         familyi={C\bibinitperiod},
+         given={Steven\bibnamedelima M},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{CRESABSJ+1}
+    \strng{fullhash}{CRESABSJCSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/BF02100130
+    \endverb
+    \field{number}{12}
+    \field{pages}{2369\bibrangedash 2376}
+    \field{title}{Characteristics of the propagating pressure wave in the
+  esophagus}
+    \field{volume}{41}
+    \field{journaltitle}{Digestive diseases and sciences}
+    \field{year}{1996}
+  \endentry
+
+  \entry{jean1972localization}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JA}{%
+         family={Jean},
+         familyi={J\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \strng{namehash}{JA1}
+    \strng{fullhash}{JA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{227}
+    \field{title}{Localization and activity of medullary swallowing neurones}
+    \field{volume}{64}
+    \field{journaltitle}{Journal de physiologie}
+    \field{year}{1972}
+  \endentry
+
+  \entry{Carrier2007Cognitive}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CN}{%
+         family={Carrier},
+         familyi={C\bibinitperiod},
+         given={Natalie},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WGE}{%
+         family={West},
+         familyi={W\bibinitperiod},
+         given={Gale\bibnamedelima E},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=OD}{%
+         family={Ouellet},
+         familyi={O\bibinitperiod},
+         given={Denise},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{CNWGEOD1}
+    \strng{fullhash}{CNWGEOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1300/J052v25n03\_06
+    \endverb
+    \field{number}{3-4}
+    \field{pages}{73\bibrangedash 87}
+    \field{title}{Cognitively Impaired Residents' Risk of Malnutrition Is
+  Influenced by Foodservice Factors in Long-Term Care}
+    \field{volume}{25}
+    \field{journaltitle}{Journal of Nutrition for the Elderly}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Miao2011Optimization}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MY}{%
+         family={Miao},
+         familyi={M\bibinitperiod},
+         given={Yu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sammynaiken},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZWJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={W.\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MYCLSR+1}
+    \strng{fullhash}{MYCLSRLYZWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.3665959
+    \endverb
+    \field{number}{12}
+    \field{pages}{126104}
+    \field{title}{Note: Optimization of piezoresistive response of pure carbon
+  nanotubes networks as in-plane strain sensors}
+    \field{volume}{82}
+    \field{journaltitle}{Review of Scientific Instruments}
+    \field{year}{2011}
+  \endentry
+
+  \entry{miao2012modelling}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MY}{%
+         family={Miao},
+         familyi={M\bibinitperiod},
+         given={Y},
+         giveni={Y},
+      }}%
+      {{hash=YQ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Q},
+         giveni={Q},
+      }}%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=SR}{%
+         family={Sammynaiken},
+         familyi={S\bibinitperiod},
+         given={R},
+         giveni={R},
+      }}%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={WJ},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Institute of Physics}%
+    }
+    \strng{namehash}{MYYQCL+1}
+    \strng{fullhash}{MYYQCLSRZW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.4742893
+    \endverb
+    \field{number}{6}
+    \field{pages}{063120}
+    \field{title}{Modelling of piezoresistive response of carbon nanotube
+  network based films under in-plane straining by percolation theory}
+    \field{volume}{101}
+    \field{journaltitle}{Applied Physics Letters}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Shi2016Graphene}{article}{}
+    \name{author}{14}{}{%
+      {{hash=SJ}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Jidong},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xinming},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Huanyu},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Zhuangjian},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Lingyu},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YT}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Tingting},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DZ}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Zhaohe},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Zengguang},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Enzheng},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Long},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZZ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Zhong},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Anyuan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Hongwei},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=FY}{%
+         family={Fang},
+         familyi={F\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \keyw{buckle, carbon nanotube, graphene, hybridization, strain sensing}
+    \strng{namehash}{SJLXCH+1}
+    \strng{fullhash}{SJLXCHLZZLYTDZCZSEYLZZCAZHFY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1002/adfm.201504804
+    \endverb
+    \field{number}{13}
+    \field{pages}{2078\bibrangedash 2084}
+    \field{title}{Graphene Reinforced Carbon Nanotube Networks for Wearable
+  Strain Sensors}
+    \field{volume}{26}
+    \field{journaltitle}{Advanced Functional Materials}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Yamada2011Stretchable}{article}{}
+    \name{author}{7}{}{%
+      {{hash=YT}{%
+         family={Yamada},
+         familyi={Y\bibinitperiod},
+         given={Takeo},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hayamizu},
+         familyi={H\bibinitperiod},
+         given={Yuhei},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={Yuki},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yomogida},
+         familyi={Y\bibinitperiod},
+         given={Yoshiki},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=InA}{%
+         family={Izadi-najafabadi},
+         familyi={I\bibinithyphendelim n\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FDN}{%
+         family={Futaba},
+         familyi={F\bibinitperiod},
+         given={Don\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hata},
+         familyi={H\bibinitperiod},
+         given={Kenji},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YTHYYY+1}
+    \strng{fullhash}{YTHYYYYYInAFDNHK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb DOI:10.1038/nnano.2011.36
+    \endverb
+    \field{number}{5}
+    \field{pages}{296\bibrangedash 301}
+    \field{title}{A stretchable carbon nanotube strain sensor for human-motion
+  detection}
+    \field{volume}{6}
+    \field{journaltitle}{Nature Nanotechnology}
+    \field{month}{05}
+    \field{year}{2011}
+  \endentry
+
+  \entry{pang2016flexible}{article}{}
+    \name{author}{8}{}{%
+      {{hash=PY}{%
+         family={Pang},
+         familyi={P\bibinitperiod},
+         given={Yu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=TH}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={He},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TL}{%
+         family={Tao},
+         familyi={T\bibinitperiod},
+         given={Luqi},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Yuxing},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Xuefeng},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=DN}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={Ningqin},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=RTL}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Tian-Ling},
+         giveni={T\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \strng{namehash}{PYTHTL+1}
+    \strng{fullhash}{PYTHTLLYWXDNYYRTL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1021/acsami.6b08172
+    \endverb
+    \field{number}{40}
+    \field{pages}{26458\bibrangedash 26462}
+    \field{title}{Flexible, highly sensitive, and wearable pressure and strain
+  sensors with graphene porous network structure}
+    \field{volume}{8}
+    \field{journaltitle}{ACS applied materials \& interfaces}
+    \field{year}{2016}
+  \endentry
+
+  \entry{zang2015dynamically}{article}{}
+    \name{author}{10}{}{%
+      {{hash=ZX}{%
+         family={Zang},
+         familyi={Z\bibinitperiod},
+         given={Xiaobei},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Miao},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xiao},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xinming},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZZ}{%
+         family={Zhen},
+         familyi={Z\bibinitperiod},
+         given={Zhen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lao},
+         familyi={L\bibinitperiod},
+         given={Junchao},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Kunlin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kang},
+         familyi={K\bibinitperiod},
+         given={Feiyu},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Bingqing},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Hongwei},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ZXZMLX+1}
+    \strng{fullhash}{ZXZMLXLXZZLJWKKFWBZH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nanoen.2015.04.010
+    \endverb
+    \field{pages}{83\bibrangedash 91}
+    \field{title}{Dynamically stretchable supercapacitors based on graphene
+  woven fabric electrodes}
+    \field{volume}{15}
+    \field{journaltitle}{Nano Energy}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Zhu2016Nanocomposite}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ZM}{%
+         family={{Zhu}},
+         familyi={Z\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=XM}{%
+         family={{Xie}},
+         familyi={X\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=XW}{%
+         family={{Xu}},
+         familyi={X\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CLK}{%
+         family={{Cheng}},
+         familyi={C\bibinitperiod},
+         given={L.\bibnamedelima K.},
+         giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZMXMXW+1}
+    \strng{fullhash}{ZMXMXWCLK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/JSEN.2016.2536724
+    \endverb
+    \field{number}{10}
+    \field{pages}{3848\bibrangedash 3855}
+    \field{title}{A Nanocomposite-Based Stretchable Deformation Sensor Matrix
+  for a Soft-Bodied Swallowing Robot}
+    \field{volume}{16}
+    \field{journaltitle}{IEEE Sensors Journal}
+    \field{year}{2016}
+  \endentry
+
+  \entry{ijspeert2008central}{article}{}
+    \name{author}{1}{}{%
+      {{hash=IAJ}{%
+         family={Ijspeert},
+         familyi={I\bibinitperiod},
+         given={Auke\bibnamedelima Jan},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{IAJ1}
+    \strng{fullhash}{IAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.neunet.2008.03.014
+    \endverb
+    \field{number}{4}
+    \field{pages}{642\bibrangedash 653}
+    \field{title}{Central pattern generators for locomotion control in animals
+  and robots: a review}
+    \field{volume}{21}
+    \field{journaltitle}{Neural networks}
+    \field{year}{2008}
+  \endentry
+
+  \entry{haghpanah2016generating}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HS}{%
+         family={Haghpanah},
+         familyi={H\bibinitperiod},
+         given={SA},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FF}{%
+         family={Farahmand},
+         familyi={F\bibinitperiod},
+         given={F},
+         giveni={F},
+      }}%
+      {{hash=ZH}{%
+         family={Zohoor},
+         familyi={Z\bibinitperiod},
+         given={H},
+         giveni={H},
+      }}%
+      {{hash=RM}{%
+         family={Razeghi},
+         familyi={R\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{HSFFZH+1}
+    \strng{fullhash}{HSFFZHRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s40997-016-0016-6
+    \endverb
+    \field{number}{2}
+    \field{pages}{87\bibrangedash 94}
+    \field{title}{Generating the Activation Patterns of the Leg Muscles During
+  Human Locomotion Using the Central Pattern Generators as a Control Structure}
+    \field{volume}{40}
+    \field{journaltitle}{Iranian Journal of Science and Technology,
+  Transactions of Mechanical Engineering}
+    \field{year}{2016}
+  \endentry
+
+  \entry{fang2016cpg}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=FY}{%
+         family={Fang},
+         familyi={F\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Jie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LW}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Wenhai},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Biao},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=QJ}{%
+         family={Qi},
+         familyi={Q\bibinitperiod},
+         given={Jin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YX}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Xian},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{FYHJLW+1}
+    \strng{fullhash}{FYHJLWCBQJYX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2016 Asia-Pacific Conference on Intelligent Robot Systems
+  (ACIRS)}
+    \verb{doi}
+    \verb 10.1109/ACIRS.2016.7556185
+    \endverb
+    \field{pages}{41\bibrangedash 46}
+    \field{title}{A cpg-based online trajectory planning method for industrial
+  manipulators}
+    \field{year}{2016}
+  \endentry
+
+  \entry{delvovlve1999fictive}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DI}{%
+         family={Delvolvé},
+         familyi={D\bibinitperiod},
+         given={Isabelle},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Branchereau},
+         familyi={B\bibinitperiod},
+         given={Pascal},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Dubuc},
+         familyi={D\bibinitperiod},
+         given={Réjean},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CJM}{%
+         family={Cabelguen},
+         familyi={C\bibinitperiod},
+         given={Jean-Marie},
+         giveni={J\bibinithyphendelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DIBPDR+1}
+    \strng{fullhash}{DIBPDRCJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/jn.1999.82.2.1074
+    \endverb
+    \field{number}{2}
+    \field{pages}{1074\bibrangedash 1077}
+    \field{title}{Fictive Rhythmic Motor Patterns Induced by NMDA in an In
+  Vitro Brain Stem–Spinal Cord Preparation From an Adult Urodele}
+    \field{volume}{82}
+    \field{journaltitle}{Journal of Neurophysiology}
+    \field{year}{1999}
+  \endentry
+
+  \entry{mcclellan1993mechanosensory}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MAD}{%
+         family={McClellan},
+         familyi={M\bibinitperiod},
+         given={ANDREW\bibnamedelima D},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=JW}{%
+         family={Jang},
+         familyi={J\bibinitperiod},
+         given={WOOCHAN},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MADJW1}
+    \strng{fullhash}{MADJW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/jn.1993.70.6.2442
+    \endverb
+    \field{number}{6}
+    \field{pages}{2442\bibrangedash 2454}
+    \field{title}{Mechanosensory inputs to the central pattern generators for
+  locomotion in the lamprey spinal cord: resetting, entrainment, and computer
+  modeling}
+    \field{volume}{70}
+    \field{journaltitle}{Journal of Neurophysiology}
+    \field{year}{1993}
+  \endentry
+
+  \entry{sigvardt1996effects}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SKA}{%
+         family={Sigvardt},
+         familyi={S\bibinitperiod},
+         given={KAREN\bibnamedelima A},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WTL}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={THELMA\bibnamedelima L},
+         giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SKAWTL1}
+    \strng{fullhash}{SKAWTL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1152/jn.1996.76.6.4094
+    \endverb
+    \field{number}{6}
+    \field{pages}{4094\bibrangedash 4103}
+    \field{title}{Effects of local oscillator frequency on intersegmental
+  coordination in the lamprey locomotor CPG: theory and experiment}
+    \field{volume}{76}
+    \field{journaltitle}{Journal of Neurophysiology}
+    \field{year}{1996}
+  \endentry
+
+  \entry{kopell1998chains}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KN}{%
+         family={Kopell},
+         familyi={K\bibinitperiod},
+         given={Nancy},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press, Cambridge, MA}%
+    }
+    \strng{namehash}{KN1}
+    \strng{fullhash}{KN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Chains of coupled oscillators, The handbook of brain theory
+  and neural networks}
+    \field{year}{1998}
+  \endentry
+
+  \entry{iwasaki2006analysis}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=IT}{%
+         family={Iwasaki},
+         familyi={I\bibinitperiod},
+         given={T},
+         giveni={T},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{IT1}
+    \strng{fullhash}{IT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2006 American Control Conference}
+    \verb{doi}
+    \verb 10.1109/ACC.2006.1657362
+    \endverb
+    \field{pages}{6\bibrangedash pp}
+    \field{title}{Analysis and synthesis of central pattern generators via
+  multivariable harmonic balance}
+    \field{year}{2006}
+  \endentry
+
+  \entry{righetti2006dynamic}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RL}{%
+         family={Righetti},
+         familyi={R\bibinitperiod},
+         given={Ludovic},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Buchli},
+         familyi={B\bibinitperiod},
+         given={Jonas},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=IAJ}{%
+         family={Ijspeert},
+         familyi={I\bibinitperiod},
+         given={Auke\bibnamedelima Jan},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{RLBJIAJ1}
+    \strng{fullhash}{RLBJIAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physd.2006.02.009
+    \endverb
+    \field{number}{2}
+    \field{pages}{269\bibrangedash 281}
+    \field{title}{Dynamic hebbian learning in adaptive frequency oscillators}
+    \field{volume}{216}
+    \field{journaltitle}{Physica D: Nonlinear Phenomena}
+    \field{year}{2006}
+  \endentry
+
+  \entry{kim2009central}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KJj}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jeong-jung},
+         giveni={J\bibinithyphendelim j\bibinitperiod},
+      }}%
+      {{hash=LJw}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Jun-woo},
+         giveni={J\bibinithyphendelim w\bibinitperiod},
+      }}%
+      {{hash=LJj}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Ju-jang},
+         giveni={J\bibinithyphendelim j\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KJjLJwLJj1}
+    \strng{fullhash}{KJjLJwLJj1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s12555-009-0314-5
+    \endverb
+    \field{number}{3}
+    \field{pages}{447\bibrangedash 457}
+    \field{title}{Central pattern generator parameter search for a biped
+  walking robot using nonparametric estimation based Particle Swarm
+  Optimization: IJCAS IJCAS}
+    \field{volume}{7}
+    \field{journaltitle}{International Journal of Control, Automation, and
+  Systems}
+    \field{month}{06}
+    \field{year}{2009}
+  \endentry
+
+  \entry{nakanishi2004learning}{article}{}
+    \name{author}{6}{}{%
+      {{hash=NJ}{%
+         family={Nakanishi},
+         familyi={N\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Morimoto},
+         familyi={M\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EG}{%
+         family={Endo},
+         familyi={E\bibinitperiod},
+         given={Gen},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Schaal},
+         familyi={S\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kawato},
+         familyi={K\bibinitperiod},
+         given={Mitsuo},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{NJMJEG+1}
+    \strng{fullhash}{NJMJEGCGSSKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb doi.org/10.1016/j.robot.2004.03.003
+    \endverb
+    \field{number}{2-3}
+    \field{pages}{79\bibrangedash 91}
+    \field{title}{Learning from demonstration and adaptation of biped
+  locomotion}
+    \field{volume}{47}
+    \field{journaltitle}{Robotics and autonomous systems}
+    \field{year}{2004}
+  \endentry
+
+  \entry{ijspeert2004simple}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=IJ}{%
+         family={Ijspeert},
+         familyi={I\bibinitperiod},
+         given={JBAJ},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{IJ1}
+    \strng{fullhash}{IJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{From Animals to Animats 8: Proceedings of the Seventh [ie
+  Eighth] International Conference on Simulation of Adaptive Behavior}
+    \field{pages}{153}
+    \field{title}{A simple adaptive locomotion toy-system}
+    \field{volume}{8}
+    \field{year}{2004}
+  \endentry
+
+  \entry{matsuoka1985sustained}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Matsuoka},
+         familyi={M\bibinitperiod},
+         given={Kiyotoshi},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{MK1}
+    \strng{fullhash}{MK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/BF00449593#citeas
+    \endverb
+    \field{number}{6}
+    \field{pages}{367\bibrangedash 376}
+    \field{title}{Sustained oscillations generated by mutually inhibiting
+  neurons with adaptation}
+    \field{volume}{52}
+    \field{journaltitle}{Biological cybernetics}
+    \field{year}{1985}
+  \endentry
+
+  \entry{iwasaki2008multivariable}{article}{}
+    \name{author}{1}{}{%
+      {{hash=IT}{%
+         family={Iwasaki},
+         familyi={I\bibinitperiod},
+         given={Tetsuya},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{IT2}
+    \strng{fullhash}{IT2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.automatica.2008.05.024
+    \endverb
+    \field{number}{12}
+    \field{pages}{3061\bibrangedash 3069}
+    \field{title}{Multivariable harmonic balance for central pattern
+  generators}
+    \field{volume}{44}
+    \field{journaltitle}{Automatica}
+    \field{year}{2008}
+  \endentry
+
+  \entry{wang2017cpg}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zhelong},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=GQ}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Qin},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Hongyu},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{WZGQZH1}
+    \strng{fullhash}{WZGQZH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s10846-016-0373-9
+    \endverb
+    \field{number}{2}
+    \field{pages}{209\bibrangedash 227}
+    \field{title}{CPG-inspired locomotion control for a snake robot basing on
+  nonlinear oscillators}
+    \field{volume}{85}
+    \field{journaltitle}{Journal of Intelligent \& Robotic Systems}
+    \field{year}{2017}
+  \endentry
+
+  \entry{motulsky1987fitting}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MHJ}{%
+         family={Motulsky},
+         familyi={M\bibinitperiod},
+         given={Harvey\bibnamedelima J},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RLA}{%
+         family={Ransnas},
+         familyi={R\bibinitperiod},
+         given={Lennart\bibnamedelima A},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MHJRLA1}
+    \strng{fullhash}{MHJRLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1096/fasebj.1.5.3315805
+    \endverb
+    \field{number}{5}
+    \field{pages}{365\bibrangedash 374}
+    \field{title}{Fitting curves to data using nonlinear regression: a
+  practical and nonmathematical review.}
+    \field{volume}{1}
+    \field{journaltitle}{The FASEB journal}
+    \field{year}{1987}
+  \endentry
+
+  \entry{kotsiantis2007supervised}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KSB}{%
+         family={Kotsiantis},
+         familyi={K\bibinitperiod},
+         given={Sotiris\bibnamedelima B},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=ZI}{%
+         family={Zaharakis},
+         familyi={Z\bibinitperiod},
+         given={I},
+         giveni={I},
+      }}%
+      {{hash=PP}{%
+         family={Pintelas},
+         familyi={P\bibinitperiod},
+         given={P},
+         giveni={P},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Amsterdam}%
+    }
+    \strng{namehash}{KSBZIPP1}
+    \strng{fullhash}{KSBZIPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{3\bibrangedash 24}
+    \field{title}{Supervised machine learning: A review of classification
+  techniques}
+    \field{volume}{160}
+    \field{journaltitle}{Emerging artificial intelligence applications in
+  computer engineering}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Osuna1997Training}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=OE}{%
+         family={{Osuna}},
+         familyi={O\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={{Freund}},
+         familyi={F\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={{Girosit}},
+         familyi={G\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OEFRGF1}
+    \strng{fullhash}{OEFRGF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition}
+    \verb{doi}
+    \verb 10.1109/CVPR.1997.609310
+    \endverb
+    \field{pages}{130\bibrangedash 136}
+    \field{title}{Training support vector machines: an application to face
+  detection}
+    \field{year}{1997}
+  \endentry
+
+  \entry{bhattacharya2015relevance}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BD}{%
+         family={Bhattacharya},
+         familyi={B\bibinitperiod},
+         given={Dipankar},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NMG}{%
+         family={Nisha},
+         familyi={N\bibinitperiod},
+         given={M\bibnamedelima Germin},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Pillai},
+         familyi={P\bibinitperiod},
+         given={GN},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{BDNMGPG1}
+    \strng{fullhash}{BDNMGPG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1080/14786451.2014.885030
+    \endverb
+    \field{number}{10}
+    \field{pages}{685\bibrangedash 692}
+    \field{title}{Relevance vector-machine-based solar cell model}
+    \field{volume}{34}
+    \field{journaltitle}{International Journal of Sustainable Energy}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Bongard2007automated}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Bongard},
+         familyi={B\bibinitperiod},
+         given={Josh},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lipson},
+         familyi={L\bibinitperiod},
+         given={Hod},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Academy of Sciences}%
+    }
+    \strng{namehash}{BJLH1}
+    \strng{fullhash}{BJLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1073/pnas.0609476104
+    \endverb
+    \field{issn}{0027-8424}
+    \field{number}{24}
+    \field{pages}{9943\bibrangedash 9948}
+    \field{title}{Automated reverse engineering of nonlinear dynamical systems}
+    \field{volume}{104}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2007}
+  \endentry
+
+  \entry{haykin1994neural}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HS}{%
+         family={Haykin},
+         familyi={H\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall PTR}%
+    }
+    \strng{namehash}{HS1}
+    \strng{fullhash}{HS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{1st}
+    \field{isbn}{0023527617}
+    \field{title}{Neural networks: a comprehensive foundation}
+    \list{location}{1}{%
+      {USA}%
+    }
+    \field{year}{1994}
+  \endentry
+
+  \entry{tipping2001sparse}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TME}{%
+         family={Tipping},
+         familyi={T\bibinitperiod},
+         given={Michael\bibnamedelima E},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TME1}
+    \strng{fullhash}{TME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{Jun}
+    \field{pages}{211\bibrangedash 244}
+    \field{title}{Sparse Bayesian learning and the relevance vector machine}
+    \field{volume}{1}
+    \field{journaltitle}{Journal of machine learning research}
+    \field{year}{2001}
+  \endentry
+
+  \entry{ljung1999system}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LL}{%
+         family={Ljung},
+         familyi={L\bibinitperiod},
+         given={Lennart},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{LL1}
+    \strng{fullhash}{LL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1\bibrangedash 19}
+    \field{title}{System identification}
+    \field{journaltitle}{Wiley Encyclopedia of Electrical and Electronics
+  Engineering}
+    \field{year}{1999}
+  \endentry
+
+  \entry{schmidt2009Distilling}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SM}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lipson},
+         familyi={L\bibinitperiod},
+         given={Hod},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Association for the Advancement of Science}%
+    }
+    \strng{namehash}{SMLH1}
+    \strng{fullhash}{SMLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1126/science.1165893
+    \endverb
+    \field{issn}{00368075, 10959203}
+    \field{number}{5923}
+    \field{pages}{81\bibrangedash 85}
+    \field{title}{Distilling Free-Form Natural Laws from Experimental Data}
+    \field{volume}{324}
+    \field{journaltitle}{Science}
+    \field{year}{2009}
+  \endentry
+\enddatalist
+\endinput

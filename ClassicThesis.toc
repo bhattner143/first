@@ -1,0 +1,77 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\vspace {-\cftbeforepartskip }
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {i}{The Motivation}}{1}{part.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}{Introduction}}{3}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}{Biologically-Inspired Soft Robotics}}{3}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}{Machine Learning Modelling and Control in Soft Robotics}}{4}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}{Biological Swallowing and Endoprosthetic Stenting}}{4}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}{Robotic Soft Esophagus}}{5}{section.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}{Research Motivation}}{7}{section.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.1}{Motivation 1}}{7}{subsection.1.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.2}{Motivation 2}}{7}{subsection.1.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}{Aim and Objectives}}{9}{section.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.1}{Objective 1: RoSE Capability in Investigating Stent Radial Force and Migration.}}{9}{subsection.1.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.2}{Objective 2: RoSE In Vitro Platform for Studying the Impact of Stent Implantation on Bolus Swallow Efficacy.}}{11}{subsection.1.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.3}{Objective 3: Sparse Data-Driven Discovery of RoSE Dynamic Differential Equations}}{12}{subsection.1.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.4}{Objective 4: Design of Sparse Model-Based Predictive Controller}}{14}{subsection.1.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}{Scope}}{14}{section.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.8}{Research Contributions}}{15}{section.1.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {ii}{The Path of Knowledge}}{17}{part.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}{Literature Review}}{19}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}{Medical Background of Esophageal Swallowing}}{19}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}{Swallowing Process}}{19}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}{Stages of swallowing}}{20}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2.1}{Oral preparatory stage}}{20}{subsubsection.2.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2.2}{Pharyngeal stage}}{20}{subsubsection.2.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2.3}{Esophageal stage}}{20}{subsubsection.2.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2.4}{Swallowing Mechanism}}{21}{subsubsection.2.1.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}{Swallowing Peristalsis}}{23}{subsection.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}{Neuronal Circuits of Swallowing: Central Pattern Generators (CPGs)}}{29}{subsection.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.5}{Dysphagia}}{30}{subsection.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}{Stretchable and Flexible Sensors}}{31}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}{Biologically inspired control: Central Pattern Generators (CPGs)}}{35}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}{Machine Learning}}{36}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}{Supervised Learning}}{37}{subsection.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}{System Identification}}{38}{subsection.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {iii}{Impermanence}}{41}{part.3}%
+\defcounter {refsection}{0}\relax 
+\vspace {\beforebibskip }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {}{Bibliography}}{43}{section*.48}%

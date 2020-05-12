@@ -1,0 +1,90 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ClassicThesis.aux
+The style file: biblatex.bst
+This database file appears more than once: ClassicThesis-blx.bib
+---line 7 of file ClassicThesis.aux
+ : \bibdata{ClassicThesis-blx,Bibliography2,ClassicThesis-blx
+ :                                                           }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: FrontBackmatter/DirtyTitlepage.aux
+A level-1 auxiliary file: FrontBackmatter/Titlepage.aux
+A level-1 auxiliary file: FrontBackmatter/Titleback.aux
+A level-1 auxiliary file: FrontBackmatter/Abstract.aux
+A level-1 auxiliary file: FrontBackmatter/Dedication.aux
+A level-1 auxiliary file: FrontBackmatter/Acknowledgements.aux
+A level-1 auxiliary file: FrontBackmatter/Publications.aux
+A level-1 auxiliary file: FrontBackmatter/Contents.aux
+A level-1 auxiliary file: Chapters/Chapter01.aux
+A level-1 auxiliary file: Chapters/Chapter02.aux
+A level-1 auxiliary file: FrontBackmatter/Bibliography.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'field_info' (item size: 4) to 14313 items.
+Database file #1: ClassicThesis-blx.bib
+Database file #2: Bibliography2.bib
+I was expecting a `,' or a `}'---line 146 of file Bibliography2.bib
+ :  
+ :  booktitle={Principles of deglutition: a multidisciplinary text for swallowing and its disorders},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring Bongard2007automated's extra "doi" field
+--line 669 of file Bibliography2.bib
+Biblatex version: 3.13
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 67 entries,
+            6365 wiz_defined-function locations,
+            1704 strings with 24002 characters,
+and the built_in function-call counts, 505752 in all, are:
+= -- 38126
+> -- 8914
+< -- 2281
++ -- 12943
+- -- 3674
+* -- 38340
+:= -- 55757
+add.period$ -- 0
+call.type$ -- 67
+change.case$ -- 0
+chr.to.int$ -- 56
+cite$ -- 132
+duplicate$ -- 50696
+empty$ -- 44450
+format.name$ -- 5438
+if$ -- 103720
+int.to.chr$ -- 0
+int.to.str$ -- 180
+missing$ -- 0
+newline$ -- 2610
+num.names$ -- 3360
+pop$ -- 23785
+preamble$ -- 1
+purify$ -- 1794
+quote$ -- 0
+skip$ -- 15003
+stack$ -- 0
+substring$ -- 69245
+swap$ -- 11268
+text.length$ -- 1816
+text.prefix$ -- 12
+top$ -- 1
+type$ -- 2258
+warning$ -- 0
+while$ -- 7281
+width$ -- 0
+write$ -- 2544
+(There were 2 error messages)
